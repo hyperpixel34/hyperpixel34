@@ -3,9 +3,10 @@
 - 🔭 I’m currently working on an operating system
 - 🌱 I’m currently learning C++
 
-Programming languages I know:
+#### Programming languages I know:
 - C#
 - Python
 - Java
 - Arduino
 - Some C
+- Scratch 2 :DD
