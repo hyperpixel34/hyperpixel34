@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on an operating system
+- 🔭 I’m currently working on goofy ahh Applications :DDD
 - 🌱 I’m currently learning C++
 
 #### Programming languages I know:
