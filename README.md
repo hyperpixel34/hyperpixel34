@@ -1,8 +1,8 @@
 ### Hi there 👋
 #### Programming languages I know:
 - C#
-- C++
+- C / C++
 - Python
-- Java
+- Java / Kotlin
 - Arduino
 - Scratch 2 :DD
